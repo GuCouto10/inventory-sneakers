@@ -1,0 +1,49 @@
+[
+  {
+  "id": 1,
+  "image": "AirJordan1.webp",
+  "product_name": "Air Jordan 1",
+  "product_model": "Tênis Air Jordan",
+  "price": 1999.99
+}
+
+,{
+  "id": 2,
+  "image": "AirJordan1Chicago.webp",
+  "product_name": "Air Jordan 1 Chicago",
+  "product_model": "Tênis Air Jordan",
+  "price": 1999.99
+}
+
+,{
+  "id": 3,
+  "image": "AirJordan1Cinza.webp",
+  "product_name": "Air Jordan 1 Cinza",
+  "product_model": "Tênis Air Jordan",
+  "price": 1999.99
+}
+
+,{
+  "id": 4,
+  "image": "AirJordan4.jpg",
+  "product_name": "Air Jordan 4",
+  "product_model": "Tênis Air Jordan",
+  "price": 1999.99
+}
+
+,{
+  "id": 5,
+  "image": "AirJordanLow.webp",
+  "product_name": "Air Jordan Low",
+  "product_model": "Tênis Air Jordan",
+  "price": 1999.99
+}
+
+,{
+  "id": 6,
+  "image": "AirJordanRetrô.webp",
+  "product_name": "Air Jordan Retrô",
+  "product_model": "Tênis Air Jordan",
+  "price": 1999.99
+}
+]
